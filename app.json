@@ -19,7 +19,7 @@
     "YOUR_NUMBER": {
       "description": "Your WhatsApp number in international format (e.g. 254742063632)",
       "required": false,
-      "value": "254742063632"
+      "value": "923243252787"
     },
     "MODE": {
       "description": "Bot mode: 'private' or 'public'",
@@ -87,7 +87,7 @@
     "timezone": {
       "description": "Timezone for scheduling or logging",
       "required": false,
-      "value": "Africa/Nairobi"
+      "value": "Asia/Karachi"
     }
   },
   "formation": {
